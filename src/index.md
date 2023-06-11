@@ -1,9 +1,9 @@
 ---
 layout: layouts/home.njk
-title: This cookbook belongs to
+title: Gusto Por Todo
 authorInTitle: true
 metaTitle: Home
-highlightedTag: Favourite ⭐
-highlightedTitle: Some of my favourite recipes
-highlightedLinkText: All my favourite recipes
+highlightedTag: Favoritos ⭐
+highlightedTitle: Alguna de mis recetas favoritas
+highlightedLinkText: Toda mis recetas favoritas
 ---

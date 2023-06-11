@@ -3,7 +3,7 @@ layout: layouts/base.njk
 title: About
 bodyClass: u-free-text
 ---
-![A picture of a black pug wearing a pilot jacket](/img/about.jpg)
+![Una foto de un robot cocinando estilo pixel art.](/img/chef.png)
 \
 \
-This page is for you to present yourself and/or explain what your cookbook is about.
+Recetas generadas por IA y testeada por humanos

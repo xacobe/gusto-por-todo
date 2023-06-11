@@ -1,12 +1,12 @@
 {
-    "name": "My Online Cookbook",
-    "metaDescription": "The online cookbook of John Doe",
-    "author": "John Doe",
+    "name": "Gusto Por Todo",
+    "metaDescription": "Recetas de cocina",
+    "author": "",
     "primaryColor": "#ffdb70",
     "secondaryColor": "#32816e",
-    "searchLabel": "Find recipes by name, tag or ingredients",
-    "searchContainsLabel": "Contains",
-    "servingsLabel": "servings",
-    "ingredientsLabel": "Ingredients",
-    "baseURL": "https://myonlinecookbook.netlify.app"
+    "searchLabel": "Encuentra receras por nombre, tag o ingredientes",
+    "searchContainsLabel": "Contiene",
+    "servingsLabel": "Personas",
+    "ingredientsLabel": "Ingredientes",
+    "baseURL": "https://gusto-por-todo.netlify.app/"
 }
